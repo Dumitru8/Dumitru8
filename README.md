@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 
 
 <!--### Hi everyone!
@@ -10,4 +11,7 @@ Hi everyone! My name is Dima, I am software engineer
 
 ## Badges
 
-[![CodeWars](https://www.codewars.com/users/Dumitru8/badges/large)]
+![CodeWars](https://www.codewars.com/users/Dumitru8/badges/large)
+
+<!--END_SECTION:waka-->
+
