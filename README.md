@@ -2,14 +2,14 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Dumitru8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dumitru8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="170" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47y9fkusddy2t4zp4vuhfh4eodg1odncxmufsj0hx2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="170" src="https://camo.githubusercontent.com/9e6def443d94701009c11591352be598ab6279054b7fb693fa11a68a6d86e6d5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f43757553487a7563304f3136364d52666a742f67697068792e6769663f6369643d65636630356534377939666b75736464793274347a7034767568666834656f6467316f646e63786d7566736a306878322665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67"  />
 
 ###
 
